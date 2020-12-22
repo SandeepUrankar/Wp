@@ -1,0 +1,45 @@
+patient
+{
+    font-family: arial;
+    color: yellow;
+    font-size: 16pt;
+    
+}
+
+name
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+
+}
+
+firstname,middlename,lastname{
+    font-family: arial;
+    color: yellow;
+    font-size: 12pt;
+}
+
+ssn,age,room_no{
+    display: block;
+    font-family: tahoma;
+    color: green;
+    font-size: 10pt;
+
+}
+
+primary_insurance_company,medical_problems,drug_allergy
+{
+    display: block;
+    font-family: tahoma;
+    color:red;
+    font-size: 10pt;
+}
+secondary_insurance_company{
+    display: block;
+    font-family: tahoma;
+    color: blue;
+    font-size: 10pt;
+
+
+}
+    

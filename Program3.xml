@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="p3(1).css"?>
+
+<Patients>
+
+<patient>
+
+<name>
+
+<firstname> AAA </firstname>
+<middlename> BBB </middlename>
+<lastname> CCC </lastname>
+
+</name>
+
+<ssn>11</ssn>
+<age>18</age>
+<room_no>35</room_no>
+<primary_insurance_comapany>
+
+<member id="15"/>
+<group number="A1"/>
+<address>hubli</address>
+<secondary_insurance_company>Finance</secondary_insurance_company>
+<medical_problems>Diabetes</medical_problems>
+<drug_allergy>Paracetomal</drug_allergy>
+</primary_insurance_comapany>
+</patient>
+
+
+<patient>
+
+<name>
+
+<firstname> DDD </firstname>
+<lastname> EEE </lastname>
+<middlename> FFF </middlename>
+
+</name>
+
+<ssn>16</ssn>
+<age>19</age>
+<room_no>37</room_no>
+<primary_insurance_comapany>
+
+<member id="16"/>
+<group number="A2"/>
+<address>banglore</address>
+<secondary_insurance_company>Muthoot</secondary_insurance_company>
+<medical_problems>NO</medical_problems>
+<drug_allergy>NO</drug_allergy>
+</primary_insurance_comapany>
+</patient>
+
+<patient>
+
+<name>
+
+<firstname> GGG </firstname>
+<lastname> HHH </lastname>
+<middlename> III </middlename>
+
+</name>
+
+<ssn>17</ssn>
+<age>20</age>
+<room_no>38</room_no>
+<primary_insurance_comapany>
+
+<member id="17"/>
+<group number="A3"/>
+<address>Mumabai</address>
+<secondary_insurance_company>kotake</secondary_insurance_company>
+<medical_problems>serhalgh</medical_problems>
+<drug_allergy>polgerh</drug_allergy>
+</primary_insurance_comapany>
+</patient>
+
+<patient>
+
+<name>
+
+<firstname> LLL </firstname>
+<lastname> NNN </lastname>
+<middlename> MMM </middlename>
+
+</name>
+
+<ssn>18</ssn>
+<age>21</age>
+<room_no>39</room_no>
+<primary_insurance_comapany>
+
+<member id="18"/>
+<group number="A4"/>
+<address>hyderbad</address>
+<secondary_insurance_company>Mutual</secondary_insurance_company>
+<medical_problems>poltginic</medical_problems>
+<drug_allergy>NO</drug_allergy>
+</primary_insurance_comapany>
+</patient>
+
+
+</Patients>
+
+
+
+
+
