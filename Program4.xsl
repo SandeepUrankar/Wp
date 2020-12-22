@@ -18,6 +18,7 @@
 					<xsl:for-each select="Patients/Patient">
 					<tr bgcolor="skyblue">
 						<td><xsl:value-of select="name/firstname"/></td>
+						<td><xsl:value-of select="ssn"/></td>
 						<td><xsl:value-of select="age"/></td>
 						<td><xsl:value-of select="room_no"/></td>
 						<td><xsl:value-of select="primary_insurance_company"/></td>
