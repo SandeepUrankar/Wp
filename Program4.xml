@@ -3,7 +3,7 @@
 
 <Patients>
 
-<patient>
+<Patient>
 
 <name>
 
@@ -25,10 +25,10 @@
 <medical_problems>Diabetes</medical_problems>
 <drug_allergy>Paracetomal</drug_allergy>
 </primary_insurance_comapany>
-</patient>
+</Patient>
 
 
-<patient>
+<Patient>
 
 <name>
 
@@ -50,9 +50,9 @@
 <medical_problems>NO</medical_problems>
 <drug_allergy>NO</drug_allergy>
 </primary_insurance_comapany>
-</patient>
+</Patient>
 
-<patient>
+<Patient>
 
 <name>
 
@@ -74,9 +74,9 @@
 <medical_problems>serhalgh</medical_problems>
 <drug_allergy>polgerh</drug_allergy>
 </primary_insurance_comapany>
-</patient>
+</Patient>
 
-<patient>
+<Patient>
 
 <name>
 
@@ -98,7 +98,7 @@
 <medical_problems>poltginic</medical_problems>
 <drug_allergy>NO</drug_allergy>
 </primary_insurance_comapany>
-</patient>
+</Patient>
 
 
 </Patients>
